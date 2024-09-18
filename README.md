@@ -4,6 +4,8 @@ Project Title: Understanding Animal Control Inventory
 Objective:
 The primary goal of this project is to conduct a descriptive analysis of the animal control register data for animals that have come into the custody of Vancouver Animal Control. Through this analysis, we aim to summarize key characteristics of the registered animals, including medical status, breed, color, and any known history. The insights generated from this analysis will inform strategies to improve the efficiency of animal control operations and enhance care for animals. The dataset spans 2023-2024 and provides critical details about the animals handled by the Vancouver Animal Control Office.
 
+![animal-control-inventory-register](https://github.com/user-attachments/assets/62500012-7a5d-44c6-9eb9-25bb03542948)
+
 Dataset:
 The dataset includes the following key features, representing animals under Vancouver Animal Control custody during 2023 and 2024:
 
