@@ -49,27 +49,31 @@ A Pareto chart will visualize the trends in custody time over time, showing how 
 
 4. Animal Segmentation:
 
-Segmentation by Medical Status: Grouping animals based on health conditions (e.g., healthy vs. injured) to analyze care patterns.
-Segmentation by Intake Source: Segmenting based on the animal’s history or intake source (e.g., stray, surrendered, deceased).
+•Segmentation by Medical Status: Grouping animals based on health conditions (e.g., healthy vs. injured) to analyze care patterns.
+•Segmentation by Intake Source: Segmenting based on the animal’s history or intake source (e.g., stray, surrendered, deceased).
 5. Insights and Findings:
-Insights derived from this analysis may highlight:
+•Insights derived from this analysis may highlight:
 
-Peak intake periods (e.g., holidays, weekends)
-Trends in the breed or type of animals taken into custody over time
-Common health issues in animals processed by Vancouver Animal Control
+•Peak intake periods (e.g., holidays, weekends)
+•Trends in the breed or type of animals taken into custody over time
+•Common health issues in animals processed by Vancouver Animal Control
 6. Recommendations:
 
 Based on the analysis, recommendations may include:
 
-Adjusting staff levels or hours during peak intake periods to manage the workload efficiently.
-Enhancing medical resources to better address common health conditions seen in animals.
+•Adjusting staff levels or hours during peak intake periods to manage the workload efficiently.
+•Enhancing medical resources to better address common health conditions seen in animals.
 Tools and Technologies:
 
-Python (Pandas, Matplotlib, Seaborn) or Excel for data analysis
-Data visualization tools (e.g., Excel) for creating clear, actionable dashboards
+•Python (Pandas, Matplotlib, Seaborn) or Excel for data analysis
+•Data visualization tools (e.g., Excel) for creating clear, actionable dashboards
+
 Deliverables:
 
-A comprehensive report summarizing the methods, findings, and actionable recommendations.
-Visualizations and dashboards to present key insights clearly to stakeholders.
-A presentation to communicate major findings and suggestions for future improvements.
+•A comprehensive report summarizing the methods, findings, and actionable recommendations.
+•Visualizations and dashboards to present key insights clearly to stakeholders.
+•A presentation to communicate major findings and suggestions for future improvements.
+
 This descriptive analysis project will provide a deeper understanding of the animal control register in Vancouver, helping to optimize operations and improve the management and care of animals in custody.
+
+
